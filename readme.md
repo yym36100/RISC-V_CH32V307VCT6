@@ -8,3 +8,6 @@ https://www.aliexpress.com/item/1005004350410929.html?spm=a2g0o.order_list.order
 
 more docs can be found here
 http://152.32.187.208:8080/yd-data/YD-CH32V307VCT6/
+
+other info:
+https://www.cnx-software.com/2022/07/14/yd-ch32v307vct6-risc-v-mcu-board-comes-with-ethernet-and-plenty-of-i-os/
